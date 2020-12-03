@@ -1,6 +1,5 @@
-# Introduction
-**Auto relier for Inbox Messages on telegram**
-- Made something impossible to possible
+# Auto replier for Inbox Messages on telegram
+**Made something impossible to possible**
 
 
 
