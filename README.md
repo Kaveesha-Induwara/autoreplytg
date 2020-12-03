@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 ```
 
 ### Configuration
-Add [APP_ID](https://my.telegram.org/apps), [API_HASH](https://my.telegram.org/apps), [BOT_TOKEN](https://t.me/botfather) in auto.py
+Add [APP_ID](https://my.telegram.org/apps), [API_HASH](https://my.telegram.org/apps) in auto.py
 
 ### Deploying
 - Run auto.py
