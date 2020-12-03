@@ -1,4 +1,1 @@
-TgCrypto
-pyrogram==1.0.1
-sqlalchemy
-psycopg2
+telethon==1.6.2
