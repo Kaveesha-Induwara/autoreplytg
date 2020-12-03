@@ -9,11 +9,11 @@
 ### Installation
 - Clone this repo
 ```
-git clone https://github.com/viperadnan-git/force-subscribe-telegram-bot
+git clone https://github.com/inukaasith/autoreplytg.git
 ```
 - Change directory
 ```
-cd force-subscribe-telegram-bot
+cd autoreplytg
 ```
 - Install requirements
 ```
@@ -26,7 +26,7 @@ Add [APP_ID](https://my.telegram.org/apps), [API_HASH](https://my.telegram.org/a
 ### Deploying
 - Run auto.py
 ```
-python3 bot.py
+python3 auto.py
 ```
 
 ## This will work until you close it
