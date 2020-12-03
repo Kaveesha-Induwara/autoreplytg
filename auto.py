@@ -5,8 +5,8 @@ from telethon import TelegramClient, events
 
 # sample API_ID from https://github.com/telegramdesktop/tdesktop/blob/f98fdeab3fb2ba6f55daf8481595f879729d1b84/Telegram/SourceFiles/config.h#L220
 # or use your own
-api_id = 2993816
-api_hash = '7fb36e8000845a3834d852f1bd717469'
+api_id = 1994857
+api_hash = 'fce76b799d09790680bb71ee997ff38f'
 
 # fill in your own details here
 phone = str(input ("Enter Your Phone No"))
