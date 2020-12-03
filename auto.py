@@ -12,7 +12,7 @@ api_hash = '7fb36e8000845a3834d852f1bd717469'
 
 phone ='+94703287501'
 session_file  = '@inukaasith'
-password  = 'Kaia@20041223
+password  = 'Kaia@20041223'
 message  = str(input ("Enter Your Message"))
 
 print("FUCK YOU")
